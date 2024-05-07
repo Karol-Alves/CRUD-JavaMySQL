@@ -29,4 +29,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-/src/br/com/agenda/factory/ConnectionFactory.java
+/src/br.com.agenda/factory/ConnectionFactory.java
