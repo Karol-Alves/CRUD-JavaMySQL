@@ -28,4 +28,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-ConnectionFactory.java
+br/com/agenda/factory/ConnectionFactory.java
